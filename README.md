@@ -1,4 +1,4 @@
-# co7da4433be8687cb5914d515
+# Basketball Counter from Scrimba Free JS Course
 
 ## About Scrimba
 
