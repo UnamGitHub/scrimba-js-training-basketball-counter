@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url("space-jam.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFFFFF
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.column {
+    margin: 40px;
+}
+
+button {
+    background: #22C55E;
+}
+
+
+
